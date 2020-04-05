@@ -1,5 +1,5 @@
 # SynestheticBrush
-A painting program that generates 'flying' arrays of particles.
+A painting program that generates 'flying' arrays of particles. A playable online version is hosted at http://www.tandalf.com/programs.html
 
 ![Example](/example.png)
 
